@@ -193,7 +193,7 @@ p.note { display: none; }
 <h2><span class="yellow">明日お坊さんが来て供養するのでお掃除</span></h2>
 <a href="20250128_009.jpg" target="_blank"><img src="20250128_009.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">庭の木々にも水をやって虹</span></h2>
+<h2><span class="yellow">庭の木々にも水をやってほんのりと虹</span></h2>
 <a href="20250128_023.jpg" target="_blank"><img src="20250128_023.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">2日ぶりの夕焼けグラデーション、相変わらず綺麗です</span></h2>
